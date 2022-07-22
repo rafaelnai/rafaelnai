@@ -1,19 +1,21 @@
-<h1>Welcome to my profile!</h1>
+<div align="center">
+  <h1>Welcome to my profile!</h1>
 
-<p>My name is Rafael Nai from Brazil (🇧🇷). I've been working as Front-End Developer since 2015.</p>
+  <p>My name is Rafael Nai from Brazil (🇧🇷). I've been working as Front-End Developer since 2015.</p>
+</div>
 
-
-<div>
-  <a href="https://www.linkedin.com/in/rafaelnai/">
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafaelnai/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
-
-  <a href="https://medium.com/@rafaelnai">
+  
+  <a href="https://medium.com/@rafaelnai" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-000?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </div>
 
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=rafaelnai&count_private=true&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnai&layout=compact" />
+<br/>
+  
+<div align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=rafaelnai&count_private=true&show_icons=true" />
+</div>
