@@ -13,9 +13,3 @@
     <img src="https://img.shields.io/badge/-Medium-000?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </div>
-
-<br/>
-  
-<div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=rafaelnai&count_private=true&show_icons=true" />
-</div>
